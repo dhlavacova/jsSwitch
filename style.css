@@ -1,0 +1,17 @@
+.anschalten{
+background: url("./img/lamp1.png") no-repeat;
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    padding: 100px;
+}
+
+.ausschalten{
+    background: url("./img/lamp0.png") no-repeat;
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    margin: 10px auto;
+    padding: 100px;
+}
